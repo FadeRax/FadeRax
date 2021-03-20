@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadeRax
 - 👀 I’m interested in DOING THING
-- 🌱 I’m currently learning C++ TNING
+- 🌱 I’m currently learning C++/C# THING
 - 💞️ I’m looking to collaborate on VIDEO GAME THING
 - 📫 How to reach me TWITTER THING
 
